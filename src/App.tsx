@@ -33,7 +33,7 @@ function App() {
             alt="bears kissing"
             src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbzR6M3hkNGRuZ2Zyc2E0Y2xpZ2lsbXFhdzh5NXlpNGk4dnhvbGhrNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1JmGiBtqTuehfYxuy9/giphy.gif"
           />
-          <div className="text">YAY!!!!!</div>
+          <div className="text">YAY!!!!! I love you Clairee!</div>
         </>
       ) : (
         <>
