@@ -1,0 +1,30 @@
+html,
+body {
+  height: 100%;
+  margin: 0;
+}
+
+.valentine-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: 100%; /* Set the height to 100% of the viewport height */
+  width: 100%;
+}
+
+.yesButton {
+  background-color: rgb(97, 226, 97);
+  color: white;
+  font-weight: bold;
+  font-size: 16px;
+  padding: 8px 16px;
+}
+
+.noButton {
+  background-color: red;
+  color: white;
+  font-weight: bold;
+  font-size: 16px;
+  padding: 8px 16px;
+}
